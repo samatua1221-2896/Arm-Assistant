@@ -2,6 +2,19 @@
 | ------------- | ------------- | ------------- | ----------|
 | Arm Assistant | @Sam Atuatasi | A 3-axis robotic arm that can be controlled with real-life hand movements | 5/27/25 |
 
+# June 6, 2025 - 8 hrs (over the past week)
+
+It's been a while since I've really been able to sit down and work on my arm. I picked up a bunch of books from the library to look up the best possible processors to use for my project, eventually settling on a raspberry pi 3 B+ due to its bluetooth capabilities since I want to try and use a wireless X-Box controller as the main input for the arm. I've set up a tentative BOM, primarily sourcing everything from Amazon mainly because of the free shipping. This is the link below:
+
+https://docs.google.com/spreadsheets/d/1fcxE2z_gKz_HbmTXpwvaUYf8KJW6dyo2lfEp9Hul_aQ/edit?gid=1404416521#gid=1404416521
+
+Next time I'll work on more of the CAD since I've pretty much locked down the type of motors I'm going to be using.
+
+- Miuzei MG90S 9G Micro Servo Motor Metal Geared (3x)
+- Iverntech 42 Nema 17 Stepper Motor 23mm Body for Titan Extruder 3D Printer 1.8 Stepper Angle 1.5A 2 Phase 4-Lead for base rotation
+- WWZMDiB SG90 Micro Servo Motor for the hand gripper
+
+
 # May 27, 2025 - 3 hrs
 
 Today was spent mainly research on other robotic arms and ways that people have made similair ideas. The three main ones I found most helpful were these:
